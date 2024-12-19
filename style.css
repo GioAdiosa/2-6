@@ -1,0 +1,154 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+.container {
+    margin: auto;
+    max-width: 1604px;
+    width: 100%;
+    padding: 96px;
+    background: #E4EBFF;
+}
+
+.titleContainer {
+    margin: auto;
+    max-width: 1280px;
+    width: 100%;
+    background: #FFF;
+}
+
+.paddingerOfContainer {
+    padding-left: 32px;
+}
+
+
+.titleSection {
+    margin: auto;
+    text-align: center;
+    max-width: 1216px;
+    width: 100%;
+    padding: 96px 0px;
+}
+
+.titleSpan {
+    max-width: 929px;
+    width: 100%;
+    color: #6941C6;
+    text-align: center;
+    margin: auto;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 24px;
+}
+
+.title {
+    color: #181D27;
+    font-size: 40px;
+    font-weight: 600;
+    line-height: 44px;
+    letter-spacing: -0.8px;
+    margin-top: 12px;
+}
+
+.classParagraph {
+    color: #535862;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 24px;
+    margin-top: 32px;
+}
+
+.firstSectionParagraph {
+    max-width: 553px;
+    width: 100%;
+}
+
+.sectionIcon {
+    width: 48px;
+    height: 48px;
+    border-radius: 9999px;
+    background: #F4EBFF;
+}
+
+h2 {
+    margin-top: 20px;
+    color: #181D27;
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 38px;
+}
+
+.sectionParagraph {
+    color: #535862;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 28px;
+    margin-top: 16px;
+    margin-bottom: 32px;
+}
+
+.icon {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.iconParagraph {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 12px;
+    color: #535862;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 28px;
+}
+
+.paragraphAndIcon {
+    margin-top: 20px;
+}
+
+.Services {
+    padding-left: 16px;
+    max-width: 553px;
+    width: 100%;
+}
+
+.SectionsContainer {
+    max-width: 1280px;
+    width: 100%;
+    padding-bottom: 96px;
+}
+
+.imgDiv {
+    display: inline-block;
+    vertical-align: middle;
+    max-width: 561px;
+    width: 100%;
+    height: 502px;
+    margin-left: 96px;
+}
+
+
+.TexstualContainerSection {
+    display: inline-block;
+    vertical-align: middle;
+    margin: 89px 0px;
+}
+
+
+.RightimgDiv {
+    display: inline-block;
+    vertical-align: middle;
+    max-width: 561px;
+    width: 100%;
+    height: 502px;
+}
+
+.TexstualContainerSectionTwo {
+    display: inline-block;
+    vertical-align: middle;
+    margin: 89px 0px;
+    margin-left: 101px;
+    margin-right: 32px;
+}
